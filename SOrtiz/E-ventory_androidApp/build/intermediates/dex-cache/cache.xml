@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\sortiz09\Desktop\barcode-reader\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="C:\Users\sortiz09\Desktop\barcode-reader\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.0_f6292f1f671f10b62376f112b6d58079a786537d.jar" />
+    </item>
+    <item
+        jar="C:\Users\sortiz09\Desktop\barcode-reader\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="C:\Users\sortiz09\Desktop\barcode-reader\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.0_20e0a56bb04213e5bfef0516e80fce766ad862b4.jar" />
+    </item>
+    <item
+        jar="C:\Users\sortiz09\Desktop\barcode-reader\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="C:\Users\sortiz09\Desktop\barcode-reader\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.0_a4f656bb5187ffb874b89b74ef91d1988e7c136b.jar" />
+    </item>
+    <item
+        jar="C:\Users\sortiz09\Desktop\barcode-reader\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="C:\Users\sortiz09\Desktop\barcode-reader\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.0_a264b71feb7df9c92d99683e845f66ce2864c974.jar" />
+    </item>
+    <item
+        jar="C:\Users\sortiz09\Desktop\barcode-reader\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="C:\Users\sortiz09\Desktop\barcode-reader\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.0_a7484808b35e171424f9bc2dd4ef96633d03d01b.jar" />
+    </item>
+    <item
+        jar="C:\Users\sortiz09\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.0\support-annotations-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="C:\Users\sortiz09\Desktop\barcode-reader\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.0_69d83cc61cc5ca1a3a0e3377b2792e15e57e0b73.jar" />
+    </item>
+    <item
+        jar="C:\Users\sortiz09\Desktop\barcode-reader\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="C:\Users\sortiz09\Desktop\barcode-reader\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_919055ccbc43188f1d9492e4d585ba10f943b917.jar" />
+    </item>
+    <item
+        jar="C:\Users\sortiz09\Desktop\barcode-reader\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="C:\Users\sortiz09\Desktop\barcode-reader\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_45b5c8d4b3ebdadb3dbc5731b1fcf1aae2f30823.jar" />
+    </item>
+    <item
+        jar="C:\Users\sortiz09\Desktop\barcode-reader\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="3dee4ce5844d39d843d503fb8fe04e51e5bfffac">
+        <dex dex="C:\Users\sortiz09\Desktop\barcode-reader\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-9.4.0_e12262f93a28fae2c002d2b2de2b84e53993adde.jar" />
+    </item>
+    <item
+        jar="C:\Users\sortiz09\Desktop\barcode-reader\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
+        <dex dex="C:\Users\sortiz09\Desktop\barcode-reader\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-9.4.0_cfd45bf2fdc5f902183894a67cbe0fddd0c86f9c.jar" />
+    </item>
+    <item
+        jar="C:\Users\sortiz09\Desktop\barcode-reader\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="670df81539ab71918d49b186598b7eff08ef6563">
+        <dex dex="C:\Users\sortiz09\Desktop\barcode-reader\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-vision-9.4.0_e6237fb19a133f6c756713e30c68771999f98699.jar" />
+    </item>
+    <item
+        jar="C:\Users\sortiz09\Desktop\barcode-reader\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="C:\Users\sortiz09\Desktop\barcode-reader\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.0_ada7733a1508ea75e905425cf34ff742dba91747.jar" />
+    </item>
+    <item
+        jar="C:\Users\sortiz09\Desktop\barcode-reader\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="C:\Users\sortiz09\Desktop\barcode-reader\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_a117e951989bc5c63411c1e50b7ed6921d19a6fb.jar" />
+    </item>
+    <item
+        jar="C:\Users\sortiz09\Desktop\barcode-reader\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="C:\Users\sortiz09\Desktop\barcode-reader\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.0_ed39b83eabe09e5980b4131847b93691db9075e8.jar" />
+    </item>
+    <item
+        jar="C:\Users\sortiz09\Desktop\barcode-reader\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="C:\Users\sortiz09\Desktop\barcode-reader\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.0_24ac177d6f44d0efb00aee5ee80b67f2fd1e70a9.jar" />
+    </item>
+    <item
+        jar="C:\Users\sortiz09\Desktop\barcode-reader\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
+        <dex dex="C:\Users\sortiz09\Desktop\barcode-reader\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-24.2.0_0fbbac13185723b20cf16b9124c6d84322674327.jar" />
+    </item>
+    <item
+        jar="C:\Users\sortiz09\Desktop\barcode-reader\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="C:\Users\sortiz09\Desktop\barcode-reader\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_427172e13feb36976229bd5c726469778d8d6be1.jar" />
+    </item>
+    <item
+        jar="C:\Users\sortiz09\Desktop\barcode-reader\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="C:\Users\sortiz09\Desktop\barcode-reader\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_0d0556f99644bebd8eb7581e57e9ea1299ba6b7d.jar" />
+    </item>
+    <item
+        jar="C:\Users\sortiz09\Desktop\barcode-reader\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="C:\Users\sortiz09\Desktop\barcode-reader\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.0_c5c8ac994f5fab919108432c733a03dad59258ab.jar" />
+    </item>
+    <item
+        jar="C:\Users\sortiz09\Desktop\barcode-reader\app\build\intermediates\exploded-aar\com.android.support\design\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="23eb0d2998a782213b56168cbf23a0688b9111d9">
+        <dex dex="C:\Users\sortiz09\Desktop\barcode-reader\app\build\intermediates\pre-dexed\debug\com.android.support-design-24.2.0_b9c670efbf3073b66e8f92f97b7e44b962bf2225.jar" />
+    </item>
+    <item
+        jar="C:\Users\sortiz09\Desktop\barcode-reader\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="618485fef3ebe12127f7622abbc9b5b39057b5c2">
+        <dex dex="C:\Users\sortiz09\Desktop\barcode-reader\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-9.4.0_720b8378b99b95073845f3fb1d65ee6358d99706.jar" />
+    </item>
+
+</items>

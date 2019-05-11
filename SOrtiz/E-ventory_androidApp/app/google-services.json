@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "861989033322",
+    "firebase_url": "https://e-ventory.firebaseio.com",
+    "project_id": "e-ventory",
+    "storage_bucket": "e-ventory.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:861989033322:android:d745e347bf4f46ce",
+        "android_client_info": {
+          "package_name": "com.google.android.gms.samples.vision.barcodereader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "861989033322-ubc45t9sfgs2kfg6stj3lf31iqb13trt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.google.android.gms.samples.vision.barcodereader",
+            "certificate_hash": "76ae56d89e4fa024124b72b4b3362d701a90c4cf"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnDz_6v-ht2HmEmOTsALstbp7M5MUbRh0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "861989033322-1mqc39buns3g02jqnvddsj70ubug642e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
