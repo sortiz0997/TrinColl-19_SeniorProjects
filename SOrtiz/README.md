@@ -1,4 +1,5 @@
 # E-ventory
 Senior Project Trinity College 18-19
 
-//In process, final product will be uploaded soon
+please use the following link to access the website: sortiz0997.github.io
+
